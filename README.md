@@ -75,7 +75,6 @@
 > (https://github.com/quan206703)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
@@ -87,6 +86,14 @@
 </p>
 
 ---
+## 🚀 主なプロジェクト
+<details open>
+  <p align="center">
+    <a href="https://github.com/quan206703/quan">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=minhangry&repo=ogc&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
+    </a>
+  </p>
+</details>
 
 ## 📁 今後作りたいプロジェクト  
 - Java で簡単なアプリ開発  
